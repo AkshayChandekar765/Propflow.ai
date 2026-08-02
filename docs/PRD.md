@@ -1,5 +1,8 @@
 
 EstateX Product Requirement Document (PRD)
+
+Marketing to Booking
+
 Version: 2.0
 
 Status: Draft
@@ -8,11 +11,12 @@ Founder: Akshay Chandekar
 
 Product: EstateX
 
-Category: AI Revenue Operating System (AI-ROS)
+Category: AI Business Operating System (AI-BOS)
 
 Executive Summary
+
 Vision
-To build the world's first AI Workforce that autonomously manages the complete customer journey from Lead to Booking for real estate developers.
+Build the world's first AI Business Operating System for Real Estate Developers that manages the complete customer journey from Marketing to Booking.
 
 EstateX transforms sales operations by replacing repetitive manual work with intelligent AI employees that work 24×7.
 
