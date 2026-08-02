@@ -4,7 +4,7 @@ EstateX is an AI Workforce.
 
 Every AI employee performs a business function.
 
-Layer 1
+Business Engine 1
 Presentation Layer
 
 Website
@@ -15,8 +15,8 @@ Mobile App
 
 AI Command Center
 
-Layer 2
-Business Layer
+Business Engine 2
+
 
 Projects
 
@@ -30,7 +30,7 @@ Revenue
 
 Reports
 
-Layer 3
+Business Engine 3
 AI Workforce
 
 AI Receptionist
@@ -45,7 +45,7 @@ AI Business Analyst
 
 AI Customer Success
 
-Layer 4
+Business Engine 4
 Workflow Engine
 
 Lead Assignment
@@ -58,7 +58,7 @@ Task Engine
 
 Approval Engine
 
-Layer 5
+Business Engine 5
 Communication Layer
 
 Voice Calls
@@ -71,7 +71,7 @@ Email
 
 Notifications
 
-Layer 6
+Business Engine 6
 Integrations
 
 CRM
@@ -92,7 +92,7 @@ Maps
 
 Calendar
 
-Layer 7
+Business Engine 7
 Data Layer
 
 PostgreSQL
@@ -108,27 +108,31 @@ Reports
 AI Thinking Process
 Every AI employee follows the same loop.
 
-Observe
+Marketing Intelligence Engine
 
 ↓
 
-Understand
+Lead Intelligence Engine
 
 ↓
 
-Decide
+Sales Execution Engine
 
 ↓
 
-Act
+Booking Engine
 
 ↓
 
-Learn
+Revenue Intelligence Engine
 
 ↓
 
-Improve
+Automation Engine
+
+↓
+
+AI Brain
 
 Business Goal
 Increase bookings.
